@@ -6,7 +6,7 @@ Match each business in Source 1 (S1) with the same business in Source 2
 The data is noisy: names, addresses, spellings, countries, and writing
 scripts can be different.
 
-**Leaderboard:** 1776/27000\
+**Leaderboard:** 1776th / 27,000 teams with 97% score
 **Team:** TEAM SAMADHAN
 
 ## 1. Problem
@@ -553,7 +553,6 @@ F_{0.5}=\frac{1.25PR}{0.25P+R}
 
 **Leaderboard:** Rank **1776/27000** — **Team Samadhan**.
 
-**Leaderboard:** rank **1776/27000** for **Team Samadhan**.
 
 ## 14. What Worked Well
 
