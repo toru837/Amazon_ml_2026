@@ -221,3 +221,5 @@ F_{0.5}=\frac{1.25PR}{0.25P+R}
 ## 11. Author
 
 **UTTAM RATHORE** — B.Tech ECE, MNIT Jaipur.
+<img width="695" height="856" alt="image" src="https://github.com/user-attachments/assets/2c8ae7e2-98d5-47b5-8ee4-e0760889a512" />
+
