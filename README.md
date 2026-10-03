@@ -189,13 +189,17 @@ Tested on a laptop with 16 GB RAM and an RTX 3050 (4 GB VRAM). On a cloud VM use
 
 ## 8. Results
 
-| Variant | Description | F0.5 |
-|---|---|---|
-| Base | TF-IDF blocking + LightGBM | `<add>` |
-| v2 | + Indic dictionary, C3/C4 stack (threshold 0.7) | `<add>` |
-| v4 (final) | + France normalization, pseudo-label model (FR 0.9, US/IN 0.7) | `<add>` |
+\[
+F_{0.5}=\frac{1.25PR}{0.25P+R}
+\]
 
-**Leaderboard:** rank `<1776>` of `<TEAM SAMADHAN>` teams.
+| Variant | Description | Precision | Recall | F0.5 |
+|---|---|---:|---:|---:|
+| Earlier prototype | Sampled corpus | 0.8500 | 0.9850 | **0.8757** |
+| v1 | TF-IDF blocking + LightGBM | 0.9407 | 0.9735 | **0.9468** |
+| v2 | + Indic dictionary, C3/C4 stack (threshold 0.7) | 0.9830 | 0.9890 | **0.9842** |
+
+**Leaderboard:** rank `1776` for `Team Samadhan`.
 
 ---
 
@@ -216,4 +220,4 @@ Tested on a laptop with 16 GB RAM and an RTX 3050 (4 GB VRAM). On a cloud VM use
 
 ## 11. Author
 
-**toru837** — B.Tech ECE, MNIT Jaipur.
+**UTTAM RATHORE** — B.Tech ECE, MNIT Jaipur.
