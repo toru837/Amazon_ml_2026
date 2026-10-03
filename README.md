@@ -2,7 +2,7 @@
 
 Match each business in **Source 1 (S1)** to its records in **Source 2 (S2)** and **Source 3 (S3)**, across noisy names and addresses in multiple countries and scripts (US, France, India, including Indic-script names).
 
-> **Leaderboard rank:** `<1776>`  |  **Team:** `<TEAM SAMADHAN>`
+> **Leaderboard rank:** `1776/27000`  |  **Team:** `TEAM SAMADHAN`
 
 ---
 
