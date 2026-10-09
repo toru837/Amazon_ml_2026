@@ -6,7 +6,7 @@ Match each business in Source 1 (S1) with the same business in Source 2
 The data is noisy: names, addresses, spellings, countries, and writing
 scripts can be different.
 
-**Leaderboard:** 1776th / 27,000 teams with 97% score
+**Leaderboard:** 1776th / 32,000+ teams with 97% leaderboard score
 **Team:** TEAM SAMADHAN
 
 ## 1. Problem
